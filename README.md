@@ -1,30 +1,24 @@
-# RubyMinesweeper
-Minesweeper game built with Ruby and Redis
+# README
 
-***ANYTHING IS SUBJECT TO CHANGE***
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-----
-### Tech Stack
-| Layer                | Tech                            | 
-| -------------------- | ------------------------------- | 
-| **API Backend**      | Ruby on Rails (API-only mode) | 
-| **Caching**          | Redis                         | 
-| **Database**         | PostgreSQL or SQLite          | 
-| **Containerization** | Docker + Docker Compose       | 
-| **Dev OS**           | WSL2 + VS Code                | 
-| **Front End**        | React(Vite or Expo)           |
+Things you may want to cover:
 
-----
-### Road Map & Goals
+* Ruby version
 
-**Phase 1:** Core Game Logic
+* System dependencies
 
-**Phase 2:** Build Rails API
+* Configuration
 
-**Phase 3:** Integrate Redis
+* Database creation
 
-**Phase 4:** Containerize Everything (Docker)
+* Database initialization
 
-**Phase 5:** Build Frontend
+* How to run the test suite
 
-**Finish:** Polish, Test & Deploy
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
